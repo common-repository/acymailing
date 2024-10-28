@@ -1,0 +1,1 @@
+jQuery(function(_){jQuery("#acym__walkthrough__sender_information__submit").on("click",function(){const n=jQuery('input[name="from_name"]').val(),r=jQuery('input[name="from_email"]').val();""!==n&&""!==r?_("#acym_form").trigger("submit"):alert(ACYM_JS_TXT.ACYM_FILL_ALL_INFORMATION)})});

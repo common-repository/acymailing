@@ -1,0 +1,115 @@
+{
+    "max_version": "9.9.0",
+    "splash_content": [
+        {
+            "menu_title": "Top feature 🔥",
+            "title": "DISCOVER THE BEST FEATURE OF THIS RELEASE",
+            "articles": [
+                {
+                    "title": "🔥 Oauth support for bounce handling",
+                    "desc": "You can now use Oauth to authenticate with your Gmail or Outlook account to handle bounces."
+                },
+                {
+                    "title": "🔥 New Gif integration in the editor",
+                    "desc": "The Giphy service pricing changed, this integration has been replaced by the Tenor integration in the editor, allowing you to continue inserting GIFs in your emails."
+                },
+                {
+                    "title": "🔥 [Joomla] Integration with Phoca Download",
+                    "desc": "A new integration with Phoca Download has been added."
+                },
+                {
+                    "title": "🔥 [Joomla] Integration with jTicketing and Shika",
+                    "desc": "New integrations for jTicketing and Shika provided by their developers have been listed in the downloadable add-ons."
+                }
+            ]
+        },
+        {
+            "menu_title": "Miscellaneous 🎁",
+            "title": "DISCOVER WHAT CHANGED IN GENERAL",
+            "articles": [
+                {
+                    "title": "🎁 New gif integration in the editor",
+                    "desc": "The Giphy service pricing changed, this integration has been replaced by the Tenor integration in the editor, allowing you to continue inserting GIFs in your emails."
+                },
+                {
+                    "title": "🎁 New dynamic text type for your emails",
+                    "desc": "The Website dynamic text type in the editor has been improved, allowing you to insert more dynamic content from your website in your emails."
+                },
+                {
+                    "title": "🎁 Improve the queue pause/resume button",
+                    "desc": "Add a new tooltip on the resume/pause button in the queue."
+                }
+            ]
+        },
+        {
+            "menu_title": "Joomla 🧩 ",
+            "title": "DISCOVER WHAT CHANGED FOR JOOMLA",
+            "articles": [
+                {
+                    "title": "🧩 Integration with Phoca Download",
+                    "desc": "A new integration with Phoca Download has been added."
+                },
+                {
+                    "title": "🧩 Integration with jTicketing and Shika",
+                    "desc": "New integrations for jTicketing and Shika provided by their developers have been listed in the downloadable add-ons."
+                },
+                {
+                    "title": "🧩 Better handling of Joomla articles images",
+                    "desc": "Inserted articles that do not have the intro image set will now be inserted with their full image in the email."
+                },
+                {
+                    "title": "🧩 JEvents add-on improvement",
+                    "desc": "A new option has been added in the JEvents add-on to let you specify the menu item ID to use when building event links."
+                }
+            ]
+        },
+        {
+            "menu_title": "WordPress 🧩 ",
+            "title": "DISCOVER WHAT CHANGED FOR WORDPRESS",
+            "articles": [
+                {
+                    "title": "🧩 Improve external plugins compatibility",
+                    "desc": "Fixed a display issue when the plugin WPC Product Bundles for WooCommerce is active."
+                },
+                {
+                    "title": "🧩 Improve external plugins compatibility",
+                    "desc": "Fixed a warning error on our external plugins for the uninstall script definition."
+                }
+            ]
+        },
+        {
+            "menu_title": "Bug fixes 🛠",
+            "title": "DISCOVER WHAT CHANGED IN GENERAL",
+            "articles": [
+                {
+                    "title": "🛠 Footer image",
+                    "desc": "Fixed the footer image for free versions that could be shown incorrectly."
+                },
+                {
+                    "title": "🛠 TinyMCE editor custom CSS edition",
+                    "desc": "Fixed an issue for the TinyMCE editor when importing a template with custom CSS that has irregular line return characters."
+                },
+                {
+                    "title": "🛠 Issues with our servers",
+                    "desc": "Fixed an issue for few hosting providers not able to contact our license API"
+                },
+                {
+                    "title": "🛠 Mailbox actions",
+                    "desc": "Fixed error preventing to display the listing of mailbox actions"
+                },
+                {
+                    "title": "🛠 Make connection",
+                    "desc": "Fixed an issue when connecting from Make.com to AcyMailing"
+                },
+                {
+                    "title": "🛠 Import templates for Windows",
+                    "desc": "The templates import has been fixed for Windows users. The file type verification didn't handle non-standard mime types."
+                },
+                {
+                    "title": "🛠 Check database integrity",
+                    "desc": "Fixed the issue of the Check Database Integrity button that was cycling with the same messages of resolved problems for default column values."
+                }
+            ]
+        }
+    ]
+}
